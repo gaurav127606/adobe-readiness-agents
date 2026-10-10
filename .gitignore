@@ -1,3 +1,11 @@
 .DS_Store
 .idea/
 scripts/.scrub-names
+.sync-kits.*/
+
+# Local maintenance and validation tools
+/scripts/
+/tests/
+/test/
+/eval/
+/.github/workflows/checks.yml

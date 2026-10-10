@@ -1,6 +1,6 @@
 ---
-description: "Define one Adobe or retail/supply-chain term in plain English (Code Sync, XDM, merge policy, GRN, BOPIS, ...)"
-argument-hint: "product and term, e.g. eds content bus, aep merge policy, GRN"
+description: "Define one Adobe or retail/supply-chain term in plain English (Code Sync, XDM, merge policy, namespace, API Mesh, GRN, BOPIS, ...)"
+argument-hint: "product and term, e.g. eds content bus, aep merge policy, appbuilder namespace, GRN"
 agent: trainer
 ---
 

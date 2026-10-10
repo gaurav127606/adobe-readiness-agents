@@ -1,5 +1,5 @@
 ---
-description: "Senior developer across Adobe products — Adobe Commerce (MSI Source Item sync, shipments, order webhooks, indexers, checkout), Edge Delivery Services (blocks, Code Sync, aem up, Helix Admin API, DA.live, PR/PSI checks, Commerce storefront) and AEP (XDM schemas, datasets, ingestion, audiences). Use when: the approach is decided and you need concrete code, config, setup steps or debugging."
+description: "Senior developer across Adobe products — Adobe Commerce (MSI Source Item sync, shipments, order webhooks, indexers, checkout), App Builder (runtime actions, aio CLI, State, deploy, CORS), Commerce Cloud extensibility (API Mesh, Events, Admin UI SDK, drop-ins), Edge Delivery Services (blocks, Code Sync, aem up, Helix Admin API, DA.live, PR/PSI checks, Commerce storefront) and AEP (XDM schemas, datasets, ingestion, audiences). Use when: the approach is decided and you need concrete code, config, setup steps or debugging."
 tools: [read, search, edit]
 argument-hint: "What to build or debug, e.g. Source Item sync handler, or my EDS block doesn't render"
 handoffs:

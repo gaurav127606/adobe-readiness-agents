@@ -45,15 +45,15 @@ This weekly pace finishes by **2026-10-20**, well inside the Q4 deadline — lea
 - Share this file's status with your manager during check-ins and monthly updates.
 
 ## Easiest way to start — the `/enablement aep` command
-Brand new and not sure where to begin? Just run **`/enablement aep`** (no arguments) in Claude Code.
+Brand new and not sure where to begin? Just run **`/enablement aep`** (no arguments) in GitHub Copilot Chat.
 It welcomes you, checks your Status here, and walks you through **one topic at a time** in the right
 order — reading the primer, giving you the official link, quizzing you, and updating your Status when
 you're done. Jump to a specific topic with `/enablement aep identity`, `/enablement aep segments`, etc.
 
 ## Optional companion — AEP Masterclass skill
-Each topic's README cross-links to a matching module in a companion **AEP masterclass** Claude Code
-skill (`~/.claude/skills/adobe-experience-masterclass/`, installed from this same kit — see the
-top-level README) that adds plain-English explanations, Mermaid diagrams, and quizzes. It's an *aid*,
+Each topic's README cross-links to a matching module in the **AEP masterclass** Copilot
+skill (`.github/skills/adobe-experience-masterclass/` in this repository)
+that adds plain-English explanations, Mermaid diagrams, and quizzes. It's an *aid*,
 not a replacement for the official Experience League tutorials above. Handy commands:
 - `/learn aep` — start from the foundation · `/learn ajo` — journeys & offers · `/learn cja` — analytics ·
   `/learn rtcdp` — audiences & activation

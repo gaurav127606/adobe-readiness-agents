@@ -12,6 +12,8 @@ I'm new. Onboard me, one small step at a time:
 3. Recommend one product to start with and say why in two sentences:
    - New to Adobe web or storefront work → EDS (`/enablement eds`)
    - Customer data, audiences or journeys → AEP/AJO (`/enablement aep`)
+   - Extending Adobe Commerce without touching core → Commerce Cloud (`/learn accs`), then
+     hands-on App Builder (`/enablement appbuilder`)
    - Commerce ⇄ ERP/WMS integrations → the acronym tables in `erp-wms-glossary` and
      `retail-glossary`, then a practice `/architect` question
 4. Show the learning loop in four bullets: `/learn` → `/simulate` → `/quiz` → mark it done with

@@ -38,7 +38,7 @@ anyone who misses the live session. Attendance is expected.
 
 ## Easiest way to start — the `/enablement eds` command
 
-Brand new and not sure where to begin? Just run **`/enablement eds`** (no arguments) in Claude Code.
+Brand new and not sure where to begin? Just run **`/enablement eds`** (no arguments) in GitHub Copilot Chat.
 It welcomes you, checks your Status here, and walks you through **one week at a time** in order —
 reading the primer, pointing you to the masterclass module, quizzing you, and updating your Status
 when you're done. Jump to a specific week with `/enablement eds architecture`,
@@ -46,8 +46,8 @@ when you're done. Jump to a specific week with `/enablement eds architecture`,
 
 ## Optional companion — EDS Enablement Masterclass skill
 
-Each week's README cross-links to matching modules in a personal **EDS Enablement Masterclass**
-Claude Code skill (`eds-enablement-masterclass`) that adds plain-English explanations, Mermaid
+Each week's README cross-links to matching modules in the **EDS Enablement Masterclass**
+Copilot skill (`eds-enablement-masterclass`) that adds plain-English explanations, Mermaid
 diagrams, and quizzes, grounded in the same real program content. It's an *aid*, not a replacement
 for the live sessions and their recordings. Handy commands:
 

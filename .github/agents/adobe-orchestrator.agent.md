@@ -1,5 +1,5 @@
 ---
-description: "Entry point for Adobe readiness questions across products — Adobe Commerce ERP/WMS/retail integrations, Edge Delivery Services (EDS), and AEP/RTCDP/AJO/CJA. Use when: learning, designing, building or debugging on any of these and you don't know which role or product fits. Detects role (Trainer, Architect, Developer) and product, loads only the matching skill, and delegates."
+description: "Entry point for Adobe readiness questions across products — Adobe Commerce ERP/WMS/retail integrations, Commerce Cloud extensibility (ACCS, App Builder, API Mesh, Events, Admin UI SDK), Edge Delivery Services (EDS), and AEP/RTCDP/AJO/CJA. Use when: learning, designing, building or debugging on any of these and you don't know which role or product fits. Detects role (Trainer, Architect, Developer) and product, loads only the matching skill, and delegates."
 tools: [read, agent]
 agents: [trainer, architect, developer]
 argument-hint: "Ask anything, e.g. how should we sync inventory from our WMS, or teach me EDS Code Sync"

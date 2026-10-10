@@ -1,6 +1,6 @@
 ---
-description: "Learn an Adobe topic from zero — EDS, AEP/RTCDP/AJO/CJA, or commerce ERP/WMS/retail"
-argument-hint: "product and topic, e.g. eds architecture, aep identity, ajo, start from scratch"
+description: "Learn an Adobe topic from zero — EDS, App Builder, Commerce Cloud (ACCS), AEP/RTCDP/AJO/CJA, or commerce ERP/WMS/retail"
+argument-hint: "product and topic, e.g. eds architecture, appbuilder deploy, accs api mesh, aep identity, start from scratch"
 agent: trainer
 ---
 

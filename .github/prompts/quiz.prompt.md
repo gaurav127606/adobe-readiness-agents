@@ -1,6 +1,6 @@
 ---
 description: "Quiz me on an Adobe module and grade my answers"
-argument-hint: "product and module, e.g. eds code sync, aep identity, ajo, everything"
+argument-hint: "product and module, e.g. eds code sync, appbuilder state, accs events, aep identity, everything"
 agent: trainer
 ---
 
